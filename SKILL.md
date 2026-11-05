@@ -2,7 +2,7 @@
 summary: 快手公开视频数据只读API：关键词搜视频、博主作品与粉丝数据、视频评论，输出结构化JSON，不登录不发布。用于爆款选题、竞品监控、KOL筛选、评论舆情。触发词：快手、Kuaishou、kwai、快手搜索、快手评论、快手博主。
 displayName: 快手视频洞察｜关键词搜索·博主作品·粉丝数据·视频评论
 slug: ks-topic-hunter
-name: kuaishou-data-miner
+name: ks-topic-hunter
 description: "快手公开视频数据只读技能：关键词搜视频、博主作品与粉丝数据、视频评论，输出 JSON，不登录不发布。触发词：快手、Kuaishou、kwai、快手搜索、快手评论、快手博主。用户要查快手视频、评论、爆款选题、竞品监控、KOL 筛选或评论舆情时使用；抖音、小红书、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.1.1
